@@ -1,0 +1,6 @@
+echo ARQUIVO: Gatos.Azul.stack > Gatos.Azul.stack
+echo ARQUIVO: Gatos.Verde.stack > Gatos.Verde.stack
+echo ARQUIVO: Gatos.gitignore > Gatos.gitignore
+
+echo ARQUIVO: Azul.gitignore > Azul.gitignore
+echo ARQUIVO: Verde.gitignore > Verde.gitignore
